@@ -5,7 +5,7 @@
 # React Weather Application 
 ## Find the current weather and 7 days forecast of any city on earth with this simple little web app.
 
-Live Demo on [Netlify](https://monitor-weather.netlify.app).
+Live Demo on [Netlify](https://chipper-boba-221c5d.netlify.app/).
 
 ---
 
